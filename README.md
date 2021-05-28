@@ -11,13 +11,14 @@ Write down general information about your project. It is a good idea to always p
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
-<img align ="left" alt="visual studio code" width="26px" src"https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png"/>
+
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
-[<img align ="left" alt="visual studio code" width="26px" src""/>]
-[<img align ="left" alt="visual studio code" width="26px" src""/>]
-[<img align ="left" alt="visual studio code" width="26px" src""/>]
-[<img align ="left" alt="visual studio code" width="26px" src""/>]
-[<img align ="left" alt="visual studio code" width="26px" src""/>]
+<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
+<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
+<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
+<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
+<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
+
 ***
 A list of technologies used within the project:
 * [Technology name](https://example.com): Version 12.3 
