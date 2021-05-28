@@ -19,11 +19,7 @@ Write down general information about your project. It is a good idea to always p
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/pythonimage.jpg" width="40" height="40" align="left">
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/shellscriptingimage.jpg" width="40" height="40" align="left">
 
-***
-A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+
 ## Installation
 ***
 A little intro about the installation. 
