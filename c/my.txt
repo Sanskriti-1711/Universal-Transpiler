@@ -1,3 +1,0 @@
-python capital.py
-python indentation.py
-python parin.py out2.py
