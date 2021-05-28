@@ -19,15 +19,15 @@ Write down general information about your project. It is a good idea to always p
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/pythonimage.jpg" width="40" height="40" align="left">
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/shellscriptingimage.jpg" width="40" height="40" align="left">
 <br />
+<br />
 
 ## Installation
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ npm init
+$ npm install http express express-fileupload fs
+
 ```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
