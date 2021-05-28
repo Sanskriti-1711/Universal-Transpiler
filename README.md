@@ -12,11 +12,11 @@ Write down general information about your project. It is a good idea to always p
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
 
-<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left">
+<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left"> 
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/cssimage.jpg" width="50" height="40" align="left">
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/htmlimage.png" width="40" height="40" align="left">
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/nodeimage.png" width="40" height="40" align="left">
-<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/pythonimage.jpg" width="40" height="40" align="left">
+[<img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/pythonimage.jpg" width="40" height="40" align="left">][python]
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/shellscriptingimage.jpg" width="40" height="40" align="left">
 <br />
 <br />
