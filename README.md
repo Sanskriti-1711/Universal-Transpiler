@@ -7,7 +7,7 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+Transpiler is source to source compiler which translates one programming langugae to another programming langugae. Here we have made a transpiler which can convert **Python code** to **C language , Cpp language and Java** .It can convert the **variables**(int ,float ,char) , **input/output statements**(print,input) , **if...else statements**(nested if...else) and  **while loop**.
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
@@ -23,7 +23,7 @@ Write down general information about your project. It is a good idea to always p
 
 ## Installation
 ***
-You should have Python 3.9.4 and node v14.15.1 installed in your system.
+You should have Python 3.9.4 and node v14.15.1 installed in your system. Run the following commands to install required libraries.
 ```
 $ npm init
 $ npm install http express express-fileupload fs
