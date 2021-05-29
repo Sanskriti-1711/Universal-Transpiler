@@ -40,5 +40,6 @@ $ node app.js
 <a href=https://github.com/tejas0207><img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/tejasgithubimage.png" width="40" height="40" align="left"><a/>
 <a href=https://github.com/Shankar21700><img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/shankargithubimage.png" width="40" height="40" align="left"><a/>
 <a href=https://github.com/Sanskriti-1711><img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/sanskritigithubimage.png" width="40" height="40" align="left"><a/>  
-<a href=https://github.com/pkhadse><img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/githubimage.png" width="30" height=30" align="left"><a/>
+<a href=https://github.com/pkhadse><img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/githubimage.png" width="40" height="40" align="left"><a/>  
+
 
