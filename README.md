@@ -23,13 +23,17 @@ Write down general information about your project. It is a good idea to always p
 
 ## Installation
 ***
-Lastest version od python and node is needed.
+You should have Python 3.9.4 and node v14.15.1 installed in your system.
 ```
 $ npm init
 $ npm install http express express-fileupload fs
 
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+To run the project , just start the server
+```
+$ node app.js
+
+```
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
