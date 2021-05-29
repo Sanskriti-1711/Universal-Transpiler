@@ -9,7 +9,7 @@
 ***
 Transpiler is source to source compiler which translates one programming langugae to another programming langugae. Here we have made a transpiler which can convert **Python code** to **C language , Cpp language and Java** .It can convert the **variables**(int ,float ,char) , **input/output statements**(print,input) , **if...else statements**(nested if...else) and  **while loop**.
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/Screenshot%20(958).png)
 ## Technologies
 
 <img src="https://github.com/tejas0207/Universal-Transpiler/blob/main/readme%20images/vscodeimage.png" width="40" height="40" align="left"> 
